@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af47267c-8ba0-4cff-85c0-c3426a90aa7f)# obsidian是什么呢？
+# obsidian是什么呢？
 其实目前各大平台都有很多的obsidian学习的笔记探索视频，如b站，知乎等；
 其中本人主要以b站的学习为主，
 - 首先，先给大家**推荐**一下b站视频讲解的个人认为b站讲解比较细致的**up主**：
